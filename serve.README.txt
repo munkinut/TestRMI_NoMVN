@@ -1,0 +1,5 @@
+The files that go in serve are:
+
+Compute.class
+Pi.class
+ComputeInterfaces.jar
