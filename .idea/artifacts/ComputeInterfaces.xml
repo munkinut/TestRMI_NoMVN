@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ComputeInterfaces">
+    <output-path>$PROJECT_DIR$/out/artifacts/ComputeInterfaces</output-path>
+    <root id="archive" name="ComputeInterfaces.jar">
+      <element id="directory" name="net">
+        <element id="directory" name="munki">
+          <element id="directory" name="play">
+            <element id="directory" name="rmi">
+              <element id="directory" name="interfaces">
+                <element id="dir-copy" path="$PROJECT_DIR$/out/production/TestRMI_NoMVN/net/munki/play/rmi/interfaces" />
+              </element>
+            </element>
+          </element>
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

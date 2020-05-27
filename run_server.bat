@@ -1,0 +1,1 @@
+java -cp c:\users\warren\ideaprojects\testrmi_nomvn\out\production\testrmi_nomvn\;c:\users\warren\ideaprojects\testrmi_nomvn\serve\computeinterfaces.jar -Djava.rmi.server.codebase=file:/c:/users/warren/ideaprojects/testrmi_nomvn/ComputeInterfaces.jar -Djava.rmi.server.hostname=localhost -Djava.security.policy=server.policy net.munki.play.rmi.server.ComputeEngine
